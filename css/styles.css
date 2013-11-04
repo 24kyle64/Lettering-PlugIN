@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.char1,.char6{
+	font-size:100px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#F00
+	letter-spacing: 12em;
+	
+	}
